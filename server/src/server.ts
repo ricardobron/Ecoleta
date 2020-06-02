@@ -1,11 +1,10 @@
-import express from 'express'
+import express from 'express';
+import routes from './routes';
 
-const app = express()
+const app = express();
 
-app.get('/users', (req, res) => {
-  return res.json({ ok: true})
-})
+app.use(routes);
 
 app.listen(3333, () => {
-  console.log("RODANDO NA PORTA 3333")
-})
+  console.log('RODANDO NA PORTA 3333');
+});
