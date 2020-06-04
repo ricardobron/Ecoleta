@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/banner.png" />
 </h1>
 
 <h4 align="center"> 
@@ -13,7 +13,7 @@
 
   	
   <a href="https://www.linkedin.com/in/ricardo-silva-b40027178/">
-    <img alt="Made by ricardobron" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
+    <img alt="Made by ricardobron" src="https://img.shields.io/badge/made%20ricardobron-%2304D361">
   </a>
 	
   
