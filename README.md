@@ -147,7 +147,25 @@ $ npm run start
 
 ### 📱Rodando a aplicação mobile 
 
-🚧 Em construção... 🚧
+```bash
+$ git clone https://github.com/ricardobron/Ecoleta
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Ecoleta
+
+# Vá para a pasta server
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+
+# TENHA INSTALADO O EXPO 
+# Scaneio o QRCode e aplicação será inicializada no seu telemóvel
+
+```
 
 ## 📝 Licença
 
